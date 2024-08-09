@@ -1,0 +1,8 @@
+pip install streamlit
+pip install simpletransformers
+pip install streamlit-navigation-bar
+streamlit run app.py
+pip install scikit-learn
+
+
+
